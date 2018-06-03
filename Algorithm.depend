@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1508164073 source:d:\leetcode\algorithm\src\algorithms.cpp
+	"algorithms.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<windows.h>
+	<algorithm>
+	<string>
+
+1504097371 d:\leetcode\algorithm\include\algorithms.h
+
+1521891186 source:d:\leetcode\algorithm\main.cpp
+	<bits/stdc++.h>
+
+1503210856 d:\leetcode\algorithm\include\myvector.h
+
+1503557037 source:d:\leetcode\algorithm\ss.cpp
+	<iostream>
+
